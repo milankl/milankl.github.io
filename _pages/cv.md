@@ -11,8 +11,8 @@ redirect_from:
 
 ### Positions
 
-* NERC Independent Research Fellow, University of Oxford, from 2025 (incoming).
-* Schmidt AI in Science Postdoctoral Fellow, University of Oxford, 2024-present.
+* NERC Independent Research Fellow, University of Oxford, 2025-present.
+* Schmidt AI in Science Postdoctoral Fellow, University of Oxford, 2024-2025.
 * Postdoctoral associate, Massachusetts Institute of Technology, 2022-2024.
 * Post-doctoral research assistant, University of Oxford, 2021-2022.
 * Post-doctoral research assistant, University of Oxford, 2017.
@@ -68,8 +68,11 @@ redirect_from:
 
 ### Students
 
-* Juniper Tyree (PhD candidate), University of Helsinki, May 2024-present.
-* Minqi Xia (Master thesis), University of Oxford, Oct 2024-present.
+* Juniper Tyree (PhD candidate), University of Helsinki, 2024-present.
+* Minqi Xia (Master thesis), University of Oxford, 2024-2025.
+* Maren Höver (DPhil Intelligent Earth CDT), University of Oxford, 2024-present.
+* Bikem Pastine (DPhil Environmental Research DTP), University of Oxford, 2025-present.
+* Emily Morris (DPhil Intelligent Earth CDT), University of Oxford, 2025-present.
 
 ### Mentoring and thesis committee
 
