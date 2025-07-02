@@ -9,6 +9,7 @@ author_profile: true
 |-|-|
 |11/2024| 🗞️ Featured in [Emissions from private jets are soaring](https://doi.org/10.1038/d41586-024-03687-6) by H Kudiabor, __Nature News__ |
 |10/2024| 🎤 Podcast feature: [Modernizing Weather Forecasting with Julia](https://www.youtube.com/watch?v=Y-KWRqXML0o) by AC Mayes and A Smith, __JOSSCast__ (Episode 20)
+|08/2024| 🎥 Featured in [What do people look at on your research poster?](https://youtu.be/4x0SLtCVFho?feature=shared&t=677) by Mike Morrison, __YouTube__|
 |08/2024| 📡 [Daily heat forecasts for the Paris 2024 Olympics and Paralympics](https://heatforecast.github.io) in collaboration with [ECMWF](https://ecmwf.int) and the Medical School Hamburg|
 |02/2024| 🗞️ Featured in [It Looks a Lot Like Taylor Swift Had Two Private Jets for Her Super Bowl Flight](https://gizmodo.com/taylor-swift-second-plane-super-bowl-travis-kelce-1851246235) by J Serrano, __Gizmodo__|
 |11/2023| 🗞️ Featured in [Heads of State Fly to SFO for APEC, But at What Cost to the Environment?](https://www.kqed.org/science/1985281/heads-of-state-fly-to-sfo-for-apec-but-at-what-cost-to-the-environment) by S Johnson, __KQED__|
