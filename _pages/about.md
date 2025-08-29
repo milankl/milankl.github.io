@@ -13,7 +13,7 @@ Hi there. I'm Milan. A climate scientist.
 I’m a NERC Independent Research Fellow at the University of Oxford working on integrating machine learning into climate modelling.
 During my PostDoc at the Massachusetts Institute of Technology I started developing
 [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl),
-a modern intermediate-complexity atmospheric model written in [Julia](https://julialang.org/).
+a modern atmospheric model written in [Julia](https://julialang.org/).
 With this model I'm on a mission to
 [reinvent atmospheric modelling towards interactivity and extensibility](https://joss.theoj.org/papers/10.21105/joss.06323)
 accelerating climate research. Based on this user and developer-friendly model,
