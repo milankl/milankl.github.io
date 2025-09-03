@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 05/2025 (_invited_) | Klöwer et al. _Usability in climate modelling: A mission for open science_, [Critical Earth](https://www.criticalearth.eu/about/) final meeting, El Escorial/Madrid, Spain. |
+| 09/2025 (_invited_) | Churavy and Klöwer. _Differentiable programming for scientific computing with Enzyme and Julia_, [The ICCS Machine Learning Coupling Workshop](https://cambridge-iccs.github.io/ml-coupling-workshop/), University of Cambridge, UK. |
 | --- | --- |
+| 05/2025 (_invited_) | Klöwer et al. _Usability in climate modelling: A mission for open science_, [Critical Earth](https://www.criticalearth.eu/about/) final meeting, El Escorial/Madrid, Spain. |
 | 05/2025 (_invited_) | Klöwer et al. _Challenges and perspectives of climate data compression in times of kilometre-scale models and generative machine learning_, [talk](https://meetingorganizer.copernicus.org/EGU25/EGU25-13394.html) at [EGU](https://www.egu25.eu/) General Assembly, Vienna, Austria. |
 | 04/2025 | Werder, Alonso Silva, Silvestri, Klöwer, Räss. _Julia in geoscience: hands-on introduction and simulations of ocean, atmosphere and ice_, [short course](https://meetingorganizer.copernicus.org/EGU25/session/53623) at [EGU](https://www.egu25.eu/) General Assembly, Vienna, Austria. |
 | 04/2025 (_invited_) | Klöwer et al. _Productivity meets performance: Computational fluid dynamics and climate modelling after Fortran, double precision and CPUs; calibrated with machine learning_, talk, seminar at [WSL Institute for Snow and Avalanche Research SLF](https://www.slf.ch/en/) and ETH Zurich, Davos, Switzerland. |
