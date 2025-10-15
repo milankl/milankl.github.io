@@ -21,20 +21,6 @@ I am using machine learning to correct the simulated climate towards data.
 My fellowship aims to do that in an online-learning fashion, integrating machine-learned corrections on every time step.
 I was previously a Schmidt AI in Science and Associate Research Fellow at Reuben College Oxford.
 
-As a NERC Independent Research Fellow at Oxford Physics/AOPP I can supervise Master and PhD
-(DPhil in Oxford slang) students now, particularly in the PhD programmes
-[Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home)
-and [ILESLA](https://www.ilesla.ox.ac.uk/) (previously [Environmental Research DTP](https://www.environmental-research.ox.ac.uk/)).
-As part of this fellowship I am building the new Climate Modelling research group in Oxford,
-see [climate-modelling.github.io](https://climate-modelling.github.io/). 
-If you are interested in pursuing a PhD and would love to work on and learn about atmospheric modelling
-in combination with machine learning please reach out.
-Especially if you are not keen to drown in dusty Fortran code — not my passion either.
-I am always fire to bring brandnew concepts of software engineering and computer science into climate research.
-That's why I am an active Julia developer, see [my GitHub profile](https://github.com/milankl).
-My research interests cover large various aspects between climate physics, modelling, computer science
-and software engineering, see below.
-
 I hold a PhD from Oxford in climate computing with Tim Palmer after a very comprehensive education in
 climate physics from different universities in Germany, France, and Norway.
 During that time, I crossed the Tropical Atlantic on an oceanographic research vessel and spent a winter in Svalbard.
@@ -52,3 +38,24 @@ both through media and in teaching. While my main research develops climate mode
 I see great potential in interdisciplinary work to tackle other urgent problems
 to sustain the health of our planet.
 
+## Prospective students
+
+As a NERC Independent Research Fellow at Oxford Physics/AOPP I can supervise Master and PhD
+(DPhil in Oxford slang) students now, particularly in the PhD programmes
+[Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home)
+and [ILESLA](https://www.ilesla.ox.ac.uk/) (previously [Environmental Research DTP](https://www.environmental-research.ox.ac.uk/)).
+As part of this fellowship I am building the new Climate Modelling research group in Oxford,
+see [climate-modelling.github.io](https://climate-modelling.github.io/) where we also
+outline some [current projects and potential future projects](https://climate-modelling.github.io/projects/) that you might be interested in. 
+If you are interested in pursuing a PhD and would love to work on and learn about atmospheric modelling
+in combination with machine learning please reach out. Especially if you are not keen to drown in dusty Fortran code — not my passion either.
+I am always fire to bring brandnew concepts of software engineering and computer science into climate research.
+That's why I am an active Julia developer, see [my GitHub profile](https://github.com/milankl).
+My research interests cover large various aspects between climate physics, modelling, computer science
+and software engineering, see above.
+
+Some notes for reaching out
+
+- Please write me a specific email discussing your and my research interests. The chances are high that I need to ignore generic emails due to volume.
+- Applications go mainly through Intelligent Earth, ILESLA (and potentially other Oxford PhD programmes) or directly to the department. Oxford doesn't hire students like employees, neither can I.
+- Funding is guaranteed with the aforementioned PhD programmes, applying to the department directly your application will be automatically forwarded to Oxford internal funding bodies if selected. Or you can bring in external funding, we do not allow self-funded PhDs though.
