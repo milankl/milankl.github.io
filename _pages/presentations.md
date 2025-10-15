@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 09/2025 (_invited_) | Churavy and Klöwer. _Differentiable programming for scientific computing with Enzyme and Julia_, [The ICCS Machine Learning Coupling Workshop](https://cambridge-iccs.github.io/ml-coupling-workshop/), University of Cambridge, UK ([notebook presentation](https://vchuravy.dev/talks/2025_09_03-Cambridge-ICCS/)). |
+| 10/2025 (_invited_) | Klöwer et al. _Interactive climate modelling: An argument based on the rise and fall of software_, [Annual Lecture of the Oxford Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, UK. |
 | --- | --- |
+| 09/2025 (_invited_) | Churavy and Klöwer. _Differentiable programming for scientific computing with Enzyme and Julia_, [The ICCS Machine Learning Coupling Workshop](https://cambridge-iccs.github.io/ml-coupling-workshop/), University of Cambridge, UK ([notebook presentation](https://vchuravy.dev/talks/2025_09_03-Cambridge-ICCS/)). |
 | 07/2025 | Rackauckas, Abdelrehim and Klöwer. _SciML in Fluid Dynamics (CFD): Surrogates of Weather Models_, [JuliaCon 2025 workshop](https://pretalx.com/juliacon-2025/talk/MWHF8J/), Pittsburgh, PA, USA, virtually, ([video](https://www.youtube.com/watch?v=PfRxU2kMysU)). |
 | 05/2025 (_invited_) | Klöwer et al. _Usability in climate modelling: A mission for open science_, [Critical Earth](https://www.criticalearth.eu/about/) final meeting, El Escorial/Madrid, Spain. |
 | 05/2025 (_invited_) | Klöwer et al. _Challenges and perspectives of climate data compression in times of kilometre-scale models and generative machine learning_, [talk](https://meetingorganizer.copernicus.org/EGU25/EGU25-13394.html) at [EGU](https://www.egu25.eu/) General Assembly, Vienna, Austria. |
