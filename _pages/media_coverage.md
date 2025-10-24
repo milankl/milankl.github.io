@@ -5,8 +5,9 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|06/2025| 🗞️ Featured in [Forecasting the Future](https://saiis.web.ox.ac.uk/article/forecasting-the-future-dr-milan-klower-is-coding-change-in-climate-modelling) by T Gujral, __Schmidt Sciences__ |
+|10/2025| 🏫 Lecture on _Climate and AI_ for the [School of Climate Change](https://oxfordclimatesociety.com/school-of-climate-change), organised by the __Oxford Climate Society__ |
 |-|-|
+|06/2025| 🗞️ Featured in [Forecasting the Future](https://saiis.web.ox.ac.uk/article/forecasting-the-future-dr-milan-klower-is-coding-change-in-climate-modelling) by T Gujral, __Schmidt Sciences__ |
 |11/2024| 🗞️ Featured in [Emissions from private jets are soaring](https://doi.org/10.1038/d41586-024-03687-6) by H Kudiabor, __Nature News__ |
 |10/2024| 🎤 Podcast feature: [Modernizing Weather Forecasting with Julia](https://www.youtube.com/watch?v=Y-KWRqXML0o) by AC Mayes and A Smith, __JOSSCast__ (Episode 20)
 |08/2024| 🎥 Featured in [What do people look at on your research poster?](https://youtu.be/4x0SLtCVFho?feature=shared&t=677) by Mike Morrison, __YouTube__|
