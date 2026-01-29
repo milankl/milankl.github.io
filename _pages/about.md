@@ -57,6 +57,7 @@ and software engineering, see above.
 Some notes for reaching out
 
 - Please write me a specific email discussing your and my research interests. The chances are high that I need to ignore generic emails due to volume.
+- If I don't reply within a week or two, please send a reminder. Your email likely just arrived at a bad time.
 - Prospective students that are in some sense underrespresented are particularly encouraged to reach out, others (like I was) probably feel entitled enough anyway.
 - Apply via Intelligent Earth, ILESLA (and potentially other Oxford PhD programmes) or directly to [the department](https://www.physics.ox.ac.uk/study/postgraduates/dphil-atmospheric-oceanic-and-planetary-physics). Oxford doesn't hire students like employees, neither can I.
 - Funding is available with the aforementioned PhD programmes. If you apply to the department directly your application will be automatically forwarded to Oxford internal funding bodies if selected. Or you can bring in external funding, we do not allow self-funded PhDs though.
