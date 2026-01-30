@@ -5,8 +5,10 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|10/2025| 🏫 Lecture on _Climate and AI_ for the [School of Climate Change](https://oxfordclimatesociety.com/school-of-climate-change), organised by the __Oxford Climate Society__ |
+|01/2026| 🗞️ Featured in the [Cherwell](https://cherwell.org/wp-content/uploads/2026/01/week-1-print-1.pdf), Hilary Term 2026 Week 1 by L Pollock.
 |-|-|
+|01/2026| 🗞️ Featured in _Global aviation emissions could be halved through maximising efficiency gains, new study shows_, [University of Oxford News](https://www.ox.ac.uk/news/2026-01-07-global-aviation-emissions-could-be-halved-through-maximising-efficiency-gains-new).
+|10/2025| 🏫 Lecture on _Climate and AI_ for the [School of Climate Change](https://oxfordclimatesociety.com/school-of-climate-change), organised by the __Oxford Climate Society__ |
 |06/2025| 🗞️ Featured in [Forecasting the Future](https://saiis.web.ox.ac.uk/article/forecasting-the-future-dr-milan-klower-is-coding-change-in-climate-modelling) by T Gujral, __Schmidt Sciences__ |
 |11/2024| 🗞️ Featured in [Emissions from private jets are soaring](https://doi.org/10.1038/d41586-024-03687-6) by H Kudiabor, __Nature News__ |
 |10/2024| 🎤 Podcast feature: [Modernizing Weather Forecasting with Julia](https://www.youtube.com/watch?v=Y-KWRqXML0o) by AC Mayes and A Smith, __JOSSCast__ (Episode 20)
