@@ -7,6 +7,8 @@ author_profile: true
 
 |01/2026| 🗞️ Featured in the [Cherwell](https://cherwell.org/wp-content/uploads/2026/01/week-1-print-1.pdf), Hilary Term 2026 Week 1 by L Pollock.
 |-|-|
+|01/2026| 🗞️ Featured in _Airlines told to ban business-class cabins to meet net zero targets_, [The Telegraph](https://www.telegraph.co.uk/travel/news/airlines-scrap-business-class-net-zero/) by G Dickinson.
+|01/2026| 🗞️ Featured exclusively in _Revealed: how aviation emissions could be halved without cutting journeys_, [The Guardian](https://www.theguardian.com/environment/2026/jan/07/aviation-emissions-halved-flights-efficiently-study) by D Carrington
 |01/2026| 🗞️ Featured in _Global aviation emissions could be halved through maximising efficiency gains, new study shows_, [University of Oxford News](https://www.ox.ac.uk/news/2026-01-07-global-aviation-emissions-could-be-halved-through-maximising-efficiency-gains-new).
 |10/2025| 🏫 Lecture on _Climate and AI_ for the [School of Climate Change](https://oxfordclimatesociety.com/school-of-climate-change), organised by the __Oxford Climate Society__ |
 |06/2025| 🗞️ Featured in [Forecasting the Future](https://saiis.web.ox.ac.uk/article/forecasting-the-future-dr-milan-klower-is-coding-change-in-climate-modelling) by T Gujral, __Schmidt Sciences__ |
@@ -52,6 +54,10 @@ author_profile: true
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 <table>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="187195057"></div></td>
+    <td>Gössling, Klöwer, et al., 2026, Nature Commnications Earth & Environment.</td>
+  </tr>
   <tr>
     <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="156438506"></div></td>
     <td>Kochkov, ... Klöwer, et al., 2024, Nature.</td>
