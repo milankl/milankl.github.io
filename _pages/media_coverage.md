@@ -56,7 +56,7 @@ author_profile: true
 <table>
   <tr>
     <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="187195057"></div></td>
-    <td>Gössling, Klöwer, et al., 2026, Nature Commnications Earth & Environment.</td>
+    <td>Gössling, Klöwer, et al., 2026, Nature Communications Earth & Environment.</td>
   </tr>
   <tr>
     <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="156438506"></div></td>
