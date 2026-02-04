@@ -3,6 +3,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Group"
+    url: https://climate-modelling.github.io
+
   - title: "Publications"
     url: /publications/
 
