@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 01/2026 (_invited_) | Klöwer et al. _Interactive climate modelling_, [JuliaEO](https://aircentre.github.io/JuliaEO26/), Angra do Heroísmo, Terceira Island, Azores, Portugal. |
+| 02/2026 (_invited_) | Klöwer et al. _Towards hybrid climate modelling_, [MAC-MIGS Deep Dive](https://www.mac-migs.ac.uk/) / [EFDG Colloquium](https://www.efdg.ed.ac.uk/colloquia), University of Edinburgh, UK. |
 | --- | --- |
+| 01/2026 (_invited_) | Klöwer et al. _Interactive climate modelling_, [JuliaEO](https://aircentre.github.io/JuliaEO26/), Angra do Heroísmo, Terceira Island, Azores, Portugal. |
 | 10/2025 (_invited_) | Klöwer et al. _Interactive climate modelling: An argument based on the rise and fall of software_, [Annual Lecture of the Oxford Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, UK. |
 | 09/2025 (_invited_) | Churavy and Klöwer. _Differentiable programming for scientific computing with Enzyme and Julia_, [The ICCS Machine Learning Coupling Workshop](https://cambridge-iccs.github.io/ml-coupling-workshop/), University of Cambridge, UK ([notebook presentation](https://vchuravy.dev/talks/2025_09_03-Cambridge-ICCS/)). |
 | 07/2025 | Rackauckas, Abdelrehim and Klöwer. _SciML in Fluid Dynamics (CFD): Surrogates of Weather Models_, [JuliaCon 2025 workshop](https://pretalx.com/juliacon-2025/talk/MWHF8J/), Pittsburgh, PA, USA, virtually, ([video](https://www.youtube.com/watch?v=PfRxU2kMysU)). |
