@@ -5,8 +5,9 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|02/2026| 🎥 Video comment on Super Bowl private jets on University of Oxford's [YouTube](https://www.youtube.com/shorts/5YhcKlx-jus), [Instagram](https://www.instagram.com/reel/DUqxZ27jPhr/) and other social media channels |
+|02/2026| ✍️ Article in __The Conversation__ on [Scrapping business class could halve aviation emissions](https://theconversation.com/scrapping-business-class-could-halve-aviation-emissions-new-study-275474), reposted by [The Independent](https://www.independent.co.uk/travel/news-and-advice/business-class-flights-planes-seats-b2926037.html) |
 |-|-|
+|02/2026| 🎥 Video comment on Super Bowl private jets on University of Oxford's [YouTube](https://www.youtube.com/shorts/5YhcKlx-jus), [Instagram](https://www.instagram.com/reel/DUqxZ27jPhr/) and other social media channels |
 |01/2026| 🗞️ Featured in the [Cherwell](https://cherwell.org/wp-content/uploads/2026/01/week-1-print-1.pdf), Hilary Term 2026 Week 1 by L Pollock
 |01/2026| 🗞️ Featured in _Airlines told to ban business-class cabins to meet net zero targets_, [The Telegraph](https://www.telegraph.co.uk/travel/news/airlines-scrap-business-class-net-zero/) by G Dickinson
 |01/2026| 🗞️ Featured exclusively in _Revealed: how aviation emissions could be halved without cutting journeys_, [The Guardian](https://www.theguardian.com/environment/2026/jan/07/aviation-emissions-halved-flights-efficiently-study) by D Carrington
