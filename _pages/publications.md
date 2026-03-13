@@ -9,8 +9,10 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2026| Gössling, S, M Klöwer, JC Leitão, S Hirsch, D Brockenhagen, A Humpe. *Large carbon dioxide emissions avoidance potential in improved commercial air transport efficiency*, **Nature Communications Earth & Environment**, [10.1038/s43247-025-03069-4](https://doi.org/10.1038/s43247-025-03069-4)|
+
+|2026| Reichelt, T, J Tyree, M Klöwer, P Dueben, BN Lawrence, AH Baker, S Faghih-Naini, T Hoefler, P Stier. *ClimateBenchPress (v1.0): A Benchmark for Lossy Compression of Climate Data*, EGUsphere [10.5194/egusphere-2026-60](https://doi.org/10.5194/egusphere-2026-60)|
 |-|-|
+|2026| Gössling, S, M Klöwer, JC Leitão, S Hirsch, D Brockenhagen, A Humpe. *Large carbon dioxide emissions avoidance potential in improved commercial air transport efficiency*, **Nature Communications Earth & Environment**, [10.1038/s43247-025-03069-4](https://doi.org/10.1038/s43247-025-03069-4)|
 |2025| Schulz, H, M Klöwer, A Spring. *xbitinfo: Compressing geospatial data based on information theory*, **Journal of Open Source Software**, [10.21105/joss.09178](https://doi.org/10.21105/joss.09178)|
 |2025| WS Moses, G Cheng, V Churavy, M Gelbrecht, M Klöwer, J Kump, M Morlighem, S Williamson, D Apte, P Berg, M Giordano, C Hill, N Loose, A Montoison, SHK Narayan, A Pal, M Schanen, S Silvestri, G Wagner, P Heimbach. *DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations*, submitted, preprint: [10.22541/essoar.176314951.18114616/v1](https://doi.org/10.22541/essoar.176314951.18114616/v1) |
 |2025| Gelbrecht M, M Klöwer, N Boers. *PseudospectralNet: Towards hybrid atmospheric models for climate simulations*, Journal of Advances in Modeling Earth Systems, [10.1029/2025MS004969](https://doi.org/10.1029/2025MS004969), preprint: [10.22541/essoar.173867558.81472076/v1](https://doi.org/10.22541/essoar.173867558.81472076/v1)|
