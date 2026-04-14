@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 02/2026 (_invited_) | Klöwer et al. _Towards hybrid climate modelling_, [MAC-MIGS Deep Dive](https://www.mac-migs.ac.uk/) / [EFDG Colloquium](https://www.efdg.ed.ac.uk/colloquia), University of Edinburgh, UK. |
+| 04/2026 (_invited_) | Klöwer et al. _Hybrid climate modelling: Machine learned parameterisations and online parameter calibration with SpeedyWeather_, [Departmental Seminar](https://research.reading.ac.uk/meteorology/news-and-events/seminars/#Monday), Department of Meteorology, University of Reading, UK. |
 | --- | --- |
+| 02/2026 (_invited_) | Klöwer et al. _Towards hybrid climate modelling_, [MAC-MIGS Deep Dive](https://www.mac-migs.ac.uk/) / [EFDG Colloquium](https://www.efdg.ed.ac.uk/colloquia), University of Edinburgh, UK. |
 | 01/2026 (_invited_) | Klöwer et al. _Interactive climate modelling_, [JuliaEO](https://aircentre.github.io/JuliaEO26/), Angra do Heroísmo, Terceira Island, Azores, Portugal. |
 | 10/2025 (_invited_) | Klöwer et al. _Interactive climate modelling: An argument based on the rise and fall of software_, [Annual Lecture of the Oxford Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, UK. |
 | 09/2025 (_invited_) | Churavy and Klöwer. _Differentiable programming for scientific computing with Enzyme and Julia_, [The ICCS Machine Learning Coupling Workshop](https://cambridge-iccs.github.io/ml-coupling-workshop/), University of Cambridge, UK ([notebook presentation](https://vchuravy.dev/talks/2025_09_03-Cambridge-ICCS/)). |
