@@ -5,8 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 04/2026 (_invited_) | Klöwer et al. _Hybrid climate modelling: Machine learned parameterisations and online parameter calibration with SpeedyWeather_, [Departmental Seminar](https://research.reading.ac.uk/meteorology/news-and-events/seminars/#Monday), Department of Meteorology, University of Reading, UK. |
+| 05/2026 | Klöwer et al. _Variants of HEALPix grids for global climate modelling_, [European Geoscience Union](https://www.egu26.eu/EGU26-15163.html), Vienna, Austria. |
 | --- | --- |
+| 05/2026 | Klöwer et al. _Bitrounding_ in: Tyree et al. _Data compression and reduction for Earth System Sciences datasets in practice_, [European Geoscience Union](https://meetingorganizer.copernicus.org/EGU26/session/57884), Vienna, Austria. |
+| 04/2026 (_invited_) | Klöwer et al. _Hybrid climate modelling: Machine learned parameterisations and online parameter calibration with SpeedyWeather_, [Departmental Seminar](https://research.reading.ac.uk/meteorology/news-and-events/seminars/#Monday), Department of Meteorology, University of Reading, UK. |
 | 02/2026 (_invited_) | Klöwer et al. _Towards hybrid climate modelling_, [MAC-MIGS Deep Dive](https://www.mac-migs.ac.uk/) / [EFDG Colloquium](https://www.efdg.ed.ac.uk/colloquia), University of Edinburgh, UK. |
 | 01/2026 (_invited_) | Klöwer et al. _Interactive climate modelling_, [JuliaEO](https://aircentre.github.io/JuliaEO26/), Angra do Heroísmo, Terceira Island, Azores, Portugal. |
 | 10/2025 (_invited_) | Klöwer et al. _Interactive climate modelling: An argument based on the rise and fall of software_, [Annual Lecture of the Oxford Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, UK. |
