@@ -52,7 +52,7 @@ author_profile: true
 |2020| Klöwer, M. *Towards weather and climate models in 16-bit arithmetic* (Confirmation of status), University of Oxford. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/MKloewer_confirmation.pdf)|
 |-|-|
 |2019| Klöwer, M. *Towards 16bit weather and climate models: Posit numbers as an alternative to floating-point numbers* (Transfer of status), University of Oxford. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/MKloewer_trans_stat.pdf)|
-|2016| Klöwer, M and E Köhn. *Solving the steady Navier-Stokes equations with Finite Element Methods*. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/FEM_KoehnKloewer.pdf)|
+|2016| Klöwer, M and E Köhn. *Solving the steady Navier-Stokes equations with Finite Element Methods*. [[pdf here]](https://github.com/milankl/fem/blob/master/docs/FEM_KoehnKloewer.pdf)|
 |2016| C Sarchosidis and M Klöwer. *The influence of low-level wind shear on the surface turbulence kinetic energy production in Adventdalen, Svalbard*, (Final report for AGF-350/850), University Centre in Svalbard, 14pp. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/SEB_harrymilan.pdf)|
 |2014| Klöwer, M. *Implementing level set methods into a 2D Boussinesq model*. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/levelset.pdf)|
 
