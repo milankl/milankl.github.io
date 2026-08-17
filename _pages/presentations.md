@@ -5,8 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 05/2026 | Klöwer et al. _Variants of HEALPix grids for global climate modelling_, [European Geoscience Union](https://www.egu26.eu/EGU26-15163.html), Vienna, Austria. |
+| 08/2026 | Klöwer et al. _The GPU acceleration of SpeedyWeather_, [JuliaCon 2026](https://www.juliacon.org), Mainz, Germany, ([abstract](https://pretalx.com/juliacon-2026/talk/W7FRKU/)). |
 | --- | --- |
+| 08/2026 (_invited_) | Klöwer et al. _SpeedyWeather: Interactive Climate Modelling_, Bornö Research Station workshop, near Gothenburg, Sweden. |
+| 05/2026 | Klöwer et al. _Variants of HEALPix grids for global climate modelling_, [European Geoscience Union](https://www.egu26.eu/EGU26-15163.html), Vienna, Austria. |
 | 05/2026 | Klöwer et al. _Bitrounding_ in: Tyree et al. _Data compression and reduction for Earth System Sciences datasets in practice_, [European Geoscience Union](https://meetingorganizer.copernicus.org/EGU26/session/57884), Vienna, Austria. |
 | 04/2026 (_invited_) | Klöwer et al. _Hybrid climate modelling: Machine learned parameterisations and online parameter calibration with SpeedyWeather_, [Departmental Seminar](https://research.reading.ac.uk/meteorology/news-and-events/seminars/#Monday), Department of Meteorology, University of Reading, UK. |
 | 02/2026 (_invited_) | Klöwer et al. _Towards hybrid climate modelling_, [MAC-MIGS Deep Dive](https://www.mac-migs.ac.uk/) / [EFDG Colloquium](https://www.efdg.ed.ac.uk/colloquia), University of Edinburgh, UK. |
