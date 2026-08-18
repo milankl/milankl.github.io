@@ -41,12 +41,14 @@ to sustain the health of our planet.
 ## Prospective students
 
 As a NERC Independent Research Fellow at Oxford Physics/AOPP I can supervise Master and PhD
-(DPhil in Oxford slang) students now, particularly in the PhD programmes
+(DPhil in Oxford slang) students, particularly in the PhD programmes
 [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home)
 and [ILESLA](https://www.ilesla.ox.ac.uk/) (previously [Environmental Research DTP](https://www.environmental-research.ox.ac.uk/)).
 As part of this fellowship I am building the new Climate Modelling research group in Oxford,
 see [climate-modelling.github.io](https://climate-modelling.github.io/) where we also
-outline some [current projects and potential future projects](https://climate-modelling.github.io/projects/) that you might be interested in. 
+outline some [current projects and potential future projects](https://climate-modelling.github.io/projects/) that you might be interested in.
+Projects might be outdated but that does not mean we haven't done anything since but that we've been too busy working on exciting projects rather than updating that overview.
+But it should give you an idea nevertheless.
 If you are interested in pursuing a PhD and would love to work on and learn about atmospheric modelling
 in combination with machine learning please reach out. Especially if you are not keen to drown in dusty Fortran code — not my passion either.
 I am always fire to bring brandnew concepts of software engineering and computer science into climate research.
