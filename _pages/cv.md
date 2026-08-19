@@ -28,12 +28,13 @@ redirect_from:
 ### Research visits
 
 * Massachusetts Institute of Technology, USA, 2025.
-* University College London, UK, 2024-present.
+* University College London, UK, 2024-2025.
 * University of Oxford, UK, 2015.
 * Alfred-Wegener-Institute (AWI), Bremerhaven, Germany, 2012 and 2013.
 
 ### Awards and prizes
 
+* [Outstanding student research supervision award](https://www.mpls.ox.ac.uk/latest/news/ten-supervisors-recognised-with-awards-for-outstanding-research-supervision) in Oxford's Mathematical, Physical and Life Science Division, 2026.
 * Copernicus Programme, [ECMWF](https://ecmwf.int) [summer of weather code](https://esowc.ecmwf.int/), 2020 and 2021, £10,000.
 * 1st prize ($1000) in the [Scipy](https://scipy.org/) [John Hunter excellence for plotting contest 2019](https://jhepc.github.io/gallery.html) with the [Intuitive Probabilistic Meteogram](https://github.com/milankl/prob_meteogram)
 * Travel Grant (£1000) by a major publishing company for the best poster, DTP Student Conference, Dec 2018.
@@ -45,6 +46,8 @@ redirect_from:
 
 ### Conference organisation
 
+* Chair _Earth system science in Julia_, JuliaCon 2026 minisymposium, Mainz, GER ([video](https://www.youtube.com/live/w-82lCPov-A?si=qkkSpN7ampFuSUt_&t=16414)).
+* Co-convener [_Advancing Earth System Models with Machine Learning_](https://meetingorganizer.copernicus.org/EGU26/session/57626), European Geoscience Union 2026, Vienna, AT.
 * Chair _Earth and climate science in Julia: Power to the user_, JuliaCon 2024 minisymposium, Eindhoven, NL ([video](https://www.youtube.com/live/IgFF9JNU9cM?feature=shared&t=19677)).
 * Chair _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, JuliaCon 2023 minisymposium, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)).
 * Education and Skills coordinator, [Oxford Climate Society](https://www.oxfordclimatesociety.com/), 2019-2020.
@@ -53,8 +56,10 @@ redirect_from:
 
 ### Teaching
 
+* Chaos, predictability and random processes (12 lectures shared with Myles Allen), Oxford Physics BA/MPhys, April-June 2026.
+* The [TravellingSailorProblem](https://github.com/SpeedyWeather/TravellingSailorProblem.jl): Atmospheric modelling tutorial. Intelligent Earth CDT, Oxford, UK, Nov 2025.
 * The [RainMaker](https://github.com/SpeedyWeather/RainMaker.jl) challenge: Atmospheric modelling tutorial. Intelligent Earth CDT, Oxford, UK, Nov 2024.
-* General circulation models, lecture for Intelligent Earth CDT, Oxford, UK, Nov 2024.
+* General circulation models, lecture for Intelligent Earth CDT, Oxford, UK, Nov 2024 and Nov 2025.
 * RaspberryPi weather stations at NERC DTP Induction, Wytham Woods, UK, Sep 2024.
 * MIT freshmen orientation field trip to Mt Washington, Aug 2023.
 * Tutor for Geophysical Fluid Dynamics in [MSc in Mathematical and Theoretical Physics](https://mmathphys.physics.ox.ac.uk/apply), University of Oxford, April and May 2022.
@@ -68,11 +73,7 @@ redirect_from:
 
 ### Students
 
-* Juniper Tyree (PhD candidate), University of Helsinki, 2024-present.
-* Minqi Xia (Master thesis), University of Oxford, 2024-2025.
-* Maren Höver (DPhil Intelligent Earth CDT), University of Oxford, 2024-present.
-* Bikem Pastine (DPhil Environmental Research DTP), University of Oxford, 2025-present.
-* Emily Morris (DPhil Intelligent Earth CDT), University of Oxford, 2025-present.
+see [climate-modelling.github.io/people/](https://climate-modelling.github.io/people/)
 
 ### Mentoring and thesis committee
 
