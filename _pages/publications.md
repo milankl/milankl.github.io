@@ -9,8 +9,9 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2026| CC Merchant, M Klöwer, B Stanley-Clamp, M Höver, SLL Michel, E Groot, HM Christensen. *How Do AI Climate Models Respond to Warming Across Climate Zones?*, submitted, preprint: [arxiv.org/abs/2608.17986](https://arxiv.org/abs/2608.17986)|
+|2026| B Pastine, M Klöwer, T Tang, L Slater. *A neural network-based Universal Thermal Climate Index for reliable global thermal-stress classification across extreme weather*, submitted, preprint: [arxiv.org/abs/2609.35949](https://arxiv.org/abs/2609.35949)|
 |-|-|
+|2026| CC Merchant, M Klöwer, B Stanley-Clamp, M Höver, SLL Michel, E Groot, HM Christensen. *How Do AI Climate Models Respond to Warming Across Climate Zones?*, submitted, preprint: [arxiv.org/abs/2608.17986](https://arxiv.org/abs/2608.17986)|
 |2026| Tyree, J, R Underwood, C Bouvier, D Köhler, T Reichelt, P Dueben, S Faghih-Naini, H Järvinen, and M Klöwer. *Compression Safeguards: Building Trust into Lossy Data Compression*, **Geoscientific Model Development**, in review, preprint: [10.5194/egusphere-2026-4266](https://doi.org/10.5194/egusphere-2026-4266)|
 |2026| Höver, M, M Klöwer, C Schroeder de Witt, HM Christensen. *Spatial Generalization Tests for Machine Learning-based Weather Models to Assess Physical Consistency*, submitted, preprint: [arxiv.org/abs/2607.20716](https://arxiv.org/abs/2607.20716)|
 |2026| Reichelt, T, J Tyree, M Klöwer, P Dueben, BN Lawrence, AH Baker, S Faghih-Naini, T Hoefler, P Stier. *ClimateBenchPress (v1.0): a benchmark for lossy compression of climate data*, Geoscientific Model Development, [10.5194/gmd-19-5933-2026](https://doi.org/10.5194/gmd-19-5933-2026)|
