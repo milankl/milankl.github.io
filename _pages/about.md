@@ -51,7 +51,7 @@ Projects might be outdated but that does not mean we haven't done anything since
 But it should give you an idea nevertheless.
 If you are interested in pursuing a PhD and would love to work on and learn about atmospheric modelling
 in combination with machine learning please reach out. Especially if you are not keen to drown in dusty Fortran code — not my passion either.
-Include the words "dusty Fortran" in a create way when you reach out.
+Include the words "dusty Fortran" in a creative way when you reach out.
 I am always fire to bring brandnew concepts of software engineering and computer science into climate research.
 That's why I am an active Julia developer, see [my GitHub profile](https://github.com/milankl).
 My research interests cover large various aspects between climate physics, modelling, computer science
