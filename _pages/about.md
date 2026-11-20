@@ -40,7 +40,7 @@ to sustain the health of our planet.
 
 ## Prospective students
 
-As a NERC Independent Research Fellow at Oxford Physics/AOPP I can supervise Master and PhD
+As a NERC Independent Research Fellow at Oxford Physics/AOPP I supervise PhD
 (DPhil in Oxford slang) students, particularly in the PhD programmes
 [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home)
 and [ILESLA](https://www.ilesla.ox.ac.uk/) (previously [Environmental Research DTP](https://www.environmental-research.ox.ac.uk/)).
@@ -51,6 +51,7 @@ Projects might be outdated but that does not mean we haven't done anything since
 But it should give you an idea nevertheless.
 If you are interested in pursuing a PhD and would love to work on and learn about atmospheric modelling
 in combination with machine learning please reach out. Especially if you are not keen to drown in dusty Fortran code — not my passion either.
+Include the words "dusty Fortran" in a create way when you reach out.
 I am always fire to bring brandnew concepts of software engineering and computer science into climate research.
 That's why I am an active Julia developer, see [my GitHub profile](https://github.com/milankl).
 My research interests cover large various aspects between climate physics, modelling, computer science
@@ -58,9 +59,11 @@ and software engineering, see above.
 
 Some notes for reaching out
 
-- Please write me a specific email discussing your and my research interests. The chances are high that I need to ignore generic emails due to volume.
+- I do not have the capacity to offer supervision for projects at the Masters level. I focus on PhD students instead.
+- Please write me a specific email discussing your and my research interests. I will ignore generic emails.
 - If I don't reply within a week or two, please send a reminder. Your email likely just arrived at a bad time.
-- Prospective students that are in some sense underrespresented are particularly encouraged to reach out, others (like I was) probably feel entitled enough anyway.
-- Apply via Intelligent Earth, ILESLA (and potentially other Oxford PhD programmes) or directly to [the department](https://www.physics.ox.ac.uk/study/postgraduates/dphil-atmospheric-oceanic-and-planetary-physics). Oxford doesn't hire students like employees, neither can I.
-- Funding is available with the aforementioned PhD programmes. If you apply to the department directly your application will be automatically forwarded to Oxford internal funding bodies if selected. Or you can bring in external funding, we do not allow self-funded PhDs though.
-- If you reach out for opportunities without a formal application (e.g. a Masters project) to Oxford please send along an example of (i) you communicating research findings (usually a report, thesis or paper, or any media really) and (ii) code that you wrote (any language or purpose).
+- Prospective students that are in some sense underrespresented are encouraged to reach out, others (like I was) probably feel entitled enough anyway.
+- Apply via Intelligent Earth, ILESLA (and potentially other Oxford PhD programmes) which provide funding, or, alternatively, directly to [the department](https://www.physics.ox.ac.uk/study/postgraduates/dphil-atmospheric-oceanic-and-planetary-physics).
+- Oxford doesn't hire students like employees, neither can I.
+- We do not allow self-funded PhDs and I do not have funding for you.
+- If you plan to apply for PhD positions, do not send me your CV, I'm not assessing you. Instead, write 2-3 sentences about the highlights in your CV.
