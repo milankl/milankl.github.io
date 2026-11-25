@@ -7,7 +7,7 @@ the MIT License. See LICENSE.md. Original [README.md](https://github.com/academi
 Content
 
 - [Bio and contact details](https://github.com/milankl/milankl.github.io/blob/main/_config.yml)
-- [About](https://github.com/milankl/milankl.github.io/edit/main/_pages/publications.md)
+- [About](https://github.com/milankl/milankl.github.io/edit/main/_pages/about.md)
 - [Publications](https://github.com/milankl/milankl.github.io/edit/main/_pages/publications.md)
 - [Presentations](https://github.com/milankl/milankl.github.io/edit/main/_pages/presentations.md)
 - [Media & outreach](https://github.com/milankl/milankl.github.io/blob/main/_pages/media_coverage.md)
